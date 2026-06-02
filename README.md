@@ -43,4 +43,4 @@ jupyter notebook Jarvis_Python_project.ipynb
 
 ## 👤 Author
 **Naman Jain** — Data Analyst & AI Developer
-🌐 [Portfolio](https://pixlforgestudio03.netlify.app/) · ✉️ namancric18@gmail.com · 🐙 [@Namanjain723](https://github.com/Namanjain723)
+🌐 [Portfolio](https://pixlforgestudio03.netlify.app/) · ✉️ namancric01@gmail.com · 🐙 [@Namanjain723](https://github.com/Namanjain723)
