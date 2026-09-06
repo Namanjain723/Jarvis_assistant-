@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎙️ JARVIS — Python Voice Assistant
+# 🎙️ JARVIS - Python Voice Assistant
 
 ### A talk-to-it AI assistant: speak a command, get a GPT-powered answer spoken back.
 
@@ -17,15 +17,15 @@
 ## 📌 Overview
 
 **JARVIS** is a Python voice assistant that listens to your **spoken commands**, understands
-them, replies using **OpenAI's GPT**, and **speaks the answer back** — plus handy skills like
+them, replies using **OpenAI's GPT**, and **speaks the answer back** - plus handy skills like
 live weather and opening websites.
 
 ## ✨ Features
-- 🎤 **Speech-to-text** — captures voice commands with `SpeechRecognition`
-- 🧠 **GPT-powered answers** — natural-language responses via the **OpenAI API**
-- 🔊 **Text-to-speech** — speaks replies aloud with `pyttsx3`
-- 🌦️ **Live weather** — fetches current conditions from a weather API
-- 🌐 **Web browsing** — opens websites on command
+- 🎤 **Speech-to-text** - captures voice commands with `SpeechRecognition`
+- 🧠 **GPT-powered answers** - natural-language responses via the **OpenAI API**
+- 🔊 **Text-to-speech** - speaks replies aloud with `pyttsx3`
+- 🌦️ **Live weather** - fetches current conditions from a weather API
+- 🌐 **Web browsing** - opens websites on command
 
 ## 🧰 Tech stack
 **Python · SpeechRecognition · pyttsx3 · OpenAI · Requests · webbrowser · Jupyter**
@@ -42,5 +42,5 @@ jupyter notebook Jarvis_Python_project.ipynb
 ---
 
 ## 👤 Author
-**Naman Jain** — Data Analyst & AI Developer
+**Naman Jain** - Data Analyst & AI Developer
 🌐 [Portfolio](https://pixlforgestudio.in/) · ✉️ info@pixlforgestudio.in · 📬 namancric18@gmail.com · 🐙 [@Namanjain723](https://github.com/Namanjain723)
