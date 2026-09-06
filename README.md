@@ -32,7 +32,7 @@ live weather and opening websites.
 
 ## ▶️ Run
 ```bash
-git clone https://github.com/Namanjain723/Jarvis_assistant-.git
+git clone https://github.com/Namanjain723/jarvis-voice-assistant.git
 pip install openai SpeechRecognition pyttsx3 requests pyaudio jupyter
 jupyter notebook Jarvis_Python_project.ipynb
 ```
